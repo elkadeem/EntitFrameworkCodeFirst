@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFStoredProcedure", "EFStor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{985A3B1F-6618-4AE5-B239-ADBC5EC97747}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrivateConstractorAndSetter", "PrivateConstractorAndSetter\PrivateConstractorAndSetter.csproj", "{9647DDDC-BEC0-4CED-98BC-D12E9647A548}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{985A3B1F-6618-4AE5-B239-ADBC5EC97747}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{985A3B1F-6618-4AE5-B239-ADBC5EC97747}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{985A3B1F-6618-4AE5-B239-ADBC5EC97747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9647DDDC-BEC0-4CED-98BC-D12E9647A548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9647DDDC-BEC0-4CED-98BC-D12E9647A548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9647DDDC-BEC0-4CED-98BC-D12E9647A548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9647DDDC-BEC0-4CED-98BC-D12E9647A548}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
